@@ -1,4 +1,4 @@
-#Cordova YoutubeVideoPlayer Plugin
+# Cordova YoutubeVideoPlayer Plugin
 
 **Play Youtube Videos in a native Video Player on Android &amp; iOS.**
 
@@ -11,13 +11,13 @@ https://code.google.com/p/android-youtube-player
 Android version (5.0+) uses YouTube Android Player API:
 https://developers.google.com/youtube/android/player/reference/com/google/android/youtube/player/YouTubePlayer
 
-##Installation
+## Installation
 
 ```sh
 cordova plugin add https://github.com/d0cz/CordovaYoutubeVideoPlayer
 ```
 
-##Usage
+## Usage
 
 ```javascript
 YoutubeVideoPlayer.openVideo('YOUTUBE_VIDEO_ID');
@@ -27,14 +27,14 @@ For Android 5.0+ you will need to update the YOUTUBE_API_KEY **(package com.bunk
 
  For more information: https://developers.google.com/youtube/v3/getting-started
 
-##Author
+## Author
 
 **Adrien Glitchbone**
 
 + [https://twitter.com/glitchbone](https://twitter.com/glitchbone)
 + [http://github.com/Glitchbone](http://github.com/Glitchbone)
 
-##License
+## License
 
 CordovaYoutubeVideoPlayer is available under the MIT license. See the [LICENSE](LICENSE) file for more information.  
 XCDYouTubeKit is available under the MIT license.  
