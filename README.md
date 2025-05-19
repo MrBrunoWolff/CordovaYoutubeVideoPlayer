@@ -14,7 +14,7 @@ https://developers.google.com/youtube/android/player/reference/com/google/androi
 ## Installation
 
 ```sh
-cordova plugin add https://github.com/d0cz/CordovaYoutubeVideoPlayer
+cordova plugin add https://github.com/MrBrunoWolff/CordovaYoutubeVideoPlayer
 ```
 
 ## Usage
